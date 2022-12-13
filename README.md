@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Plant Shop App UI using Flutter and Dart
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1670934939](https://user-images.githubusercontent.com/49684285/207320012-da0774f1-7bae-429e-b99c-468c03327b87.png)
+~Home_Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1670934975](https://user-images.githubusercontent.com/49684285/207320045-419bcfab-b115-4a1a-9e97-267f2f6febe0.png)
+~Detail_Screen
